@@ -10,6 +10,5 @@ require 'pry'
 
 def get_the_values(groceries)
   #code your solution here!
-  groceries[:dairy].values
-  # groceries[:dairy].values + groceries[:vegetable].values + groceries[:meat].values + groceries[:grains].values
+  groceries[:dairy]  # groceries[:dairy].values + groceries[:vegetable].values + groceries[:meat].values + groceries[:grains].values
 end
